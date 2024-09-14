@@ -13,3 +13,6 @@ The layout is **fully responsive**, ensuring a fluid adaptation to different scr
 - Scroll animations with CSS
 
 # Screenshot
+![Screenshot](./screenshot/screenshot-1.PNG)
+
+![Screenshpt](./screenshot/screenshot-2.PNG)
